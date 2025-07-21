@@ -2,10 +2,6 @@
 
 A modern, responsive admin dashboard built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Chart.js**.
 
-## Repo Description
-
-> Modern interactive admin dashboard with data visualizations, reusable components, and responsive layout.
-
 ## Features
 
 * 🔹 **Responsive Layout:** Collapsible sidebar and adaptive header for desktop, tablet, and mobile.
