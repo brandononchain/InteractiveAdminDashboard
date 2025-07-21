@@ -29,7 +29,7 @@ A modern, responsive admin dashboard built with **Next.js**, **TypeScript**, **T
 
 ```bash
 # Clone the repo
-git clone https://github.com/brandononchain/dashboard-app.git
+git clone https://github.com/brandononchain/interactive-admin-dashboard.git
 cd dashboard-app
 
 # Install dependencies
@@ -59,7 +59,7 @@ npm start
 ## Folder Structure
 
 ```
-dashboard-app/
+interactive-admin-dashboard-/
 ├── public/             # Static assets
 ├── src/                # Source files
 │   ├── components/     # Reusable UI components
